@@ -1,4 +1,4 @@
-const metodoPago = 'cheque';
+const metodoPago = 'tarjeta';
 
 switch(metodoPago){
     case 'tarjeta':
